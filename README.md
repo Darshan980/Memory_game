@@ -6,7 +6,7 @@ A modern, feature-rich memory card matching game built with vanilla HTML, CSS, a
 
 ## 🎮 Live Demo
 
-[click here]()
+[click here](https://darshan980.github.io/Memory_game/)
 
 ## ✨ Features
 
