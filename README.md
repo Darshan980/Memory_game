@@ -6,7 +6,7 @@ A modern, feature-rich memory card matching game built with vanilla HTML, CSS, a
 
 ## 🎮 Live Demo
 
-Open `index.html` in your browser to start playing immediately!
+[click here]()
 
 ## ✨ Features
 
