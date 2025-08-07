@@ -168,13 +168,7 @@ npx live-server
 - Test keyboard shortcuts
 - Validate responsive design
 
-## 🤝 Contributing
 
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
 
 ### 💡 Ideas for Contributions
 - Add more card themes (numbers, letters, colors)
@@ -188,32 +182,9 @@ npx live-server
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
-
-- Emoji graphics provided by Unicode Consortium
-- Inspiration from classic memory card games
-- Modern web development best practices
-
-## 📊 Stats
-
-- **Lines of Code**: ~500 (HTML + CSS + JS)
-- **File Size**: < 50KB total
-- **Load Time**: < 1 second
-- **Dependencies**: Zero! Pure vanilla JavaScript
+t
 
 ## 🐛 Known Issues
 
 - None currently! 🎉
 
-## 📞 Support
-
-If you encounter any issues or have questions:
-1. Check the [Issues](https://github.com/yourusername/memory-game/issues) page
-2. Create a new issue with detailed description
-3. Include browser version and steps to reproduce
-
----
-
-**Made with ❤️ and lots of ☕**
-
-*Enjoy the game and challenge your memory!* 🧠✨
